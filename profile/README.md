@@ -46,7 +46,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
 ### Part 4, Deep Learning
 - Day 10: Fully connected networks:
     -  The MNIST-data set, artificial neurons, forward and backward pass.
-    -  [recording](https://uni-bonn.sciebo.de/s/OQoPHoIAxVJEBPj), [exercise](https://github.com/Machine-Learning-Foundations/day_11_exercise_neural_networks), [slides](https://uni-bonn.sciebo.de/s/dAILvtcj5FWoke1)
+    -  [recording](https://www.wolter.tech/wordpress/wp-content/uploads/2026/03/2023-09-25-09-03-52_smaller.mp4), [exercise](https://github.com/Machine-Learning-Foundations/day_11_exercise_neural_networks), [slides](https://uni-bonn.sciebo.de/s/dAILvtcj5FWoke1)
 - Day 11: Convolutional neural networks:
     -  The convolution operation and convolutional neural networks.
     -  [recording](https://uni-bonn.sciebo.de/s/A7yBH42clJC87hM), [exercise](https://github.com/Machine-Learning-Foundations/day_12_exercise_cnn), [slides](https://uni-bonn.sciebo.de/s/wC9OVeHqO1OLiB4)
