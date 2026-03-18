@@ -15,7 +15,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
         - [recording](https://uni-bonn.sciebo.de/s/7LI8Rs9fzw6jhiA), [exercise](https://github.com/Machine-Learning-Foundations/exercise_01_intro), [slides](https://uni-bonn.sciebo.de/s/V3P9eO6YwH6RQWS) <br>
     - Optimization
         - The derivative, gradients, optimization via gradient descent.
-        - [recording](https://uni-bonn.sciebo.de/s/8W7P94GSBmMsdOs), [exercise](https://github.com/Machine-Learning-Foundations/day_02_exercise_optimization),  [slides](https://uni-bonn.sciebo.de/s/fI9v8QmIm1O1wc2) 
+        - [recording](https://www.wolter.tech/wordpress/wp-content/uploads/2026/03/2023-09-12-17-20-44.mp4), [exercise](https://github.com/Machine-Learning-Foundations/day_02_exercise_optimization),  [slides](https://uni-bonn.sciebo.de/s/fI9v8QmIm1O1wc2) 
 - Day 02:   Linear Algebra:
    - Matrix multiplication, singular value decomposition, Linear Regression.
    - [recording](https://uni-bonn.sciebo.de/s/w5smMgZSHZU53qf), [exercise](https://github.com/Machine-Learning-Foundations/day_03_exercise_algebra), [slides](https://uni-bonn.sciebo.de/s/2r7NA3KWIuaJNdy)
