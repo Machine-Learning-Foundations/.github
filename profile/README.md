@@ -49,7 +49,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
     -  [recording](https://www.wolter.tech/wordpress/wp-content/uploads/2026/03/2023-09-25-09-03-52_smaller.mp4), [exercise](https://github.com/Machine-Learning-Foundations/day_11_exercise_neural_networks), [slides](https://uni-bonn.sciebo.de/s/dAILvtcj5FWoke1)
 - Day 11: Convolutional neural networks:
     -  The convolution operation and convolutional neural networks.
-    -  [recording](https://uni-bonn.sciebo.de/s/A7yBH42clJC87hM), [exercise](https://github.com/Machine-Learning-Foundations/day_12_exercise_cnn), [slides](https://uni-bonn.sciebo.de/s/wC9OVeHqO1OLiB4)
+    -  [recording]( https://www.wolter.tech/wordpress/wp-content/uploads/2026/03/2023-09-26-09-03-11.mp4 ), [exercise](https://github.com/Machine-Learning-Foundations/day_12_exercise_cnn), [slides](https://uni-bonn.sciebo.de/s/wC9OVeHqO1OLiB4)
 - Day 12: Optimization for deep learning:
     -  Gradient descent with momentum, Adam, early stopping, regularization
     -  [recording](https://uni-bonn.sciebo.de/s/X6iAaPgCALsZtNk), [exercise](https://github.com/Machine-Learning-Foundations/day_13_exercise_brain_decode), [slides](https://uni-bonn.sciebo.de/s/rWJRhQAGVkhpZwA)
