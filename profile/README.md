@@ -12,7 +12,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
 - Day 01:
     - Introduction
         - What is machine learning, and what can it do for us?
-        - [recording](https://uni-bonn.sciebo.de/s/7LI8Rs9fzw6jhiA), [exercise](https://github.com/Machine-Learning-Foundations/exercise_01_intro), [slides](https://uni-bonn.sciebo.de/s/V3P9eO6YwH6RQWS) <br>
+        - [recording](https://uni-bonn.sciebo.de/s/7LI8Rs9fzw6jhiA), [exercise](https://github.com/Machine-Learning-Foundations/exercise_01_intro), [slides](https://www.wolter.tech/wordpress/wp-content/uploads/2026/03/presentation_optimization.pdf) <br>
     - Optimization
         - The derivative, gradients, optimization via gradient descent.
         - [recording](https://www.wolter.tech/wordpress/wp-content/uploads/2026/03/2023-09-12-17-20-44.mp4), [exercise](https://github.com/Machine-Learning-Foundations/day_02_exercise_optimization),  [slides](https://uni-bonn.sciebo.de/s/fI9v8QmIm1O1wc2) 
