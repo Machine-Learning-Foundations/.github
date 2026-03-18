@@ -18,7 +18,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
         - [recording](https://www.wolter.tech/wordpress/wp-content/uploads/2026/03/2023-09-12-17-20-44.mp4), [exercise](https://github.com/Machine-Learning-Foundations/day_02_exercise_optimization),  [slides](https://uni-bonn.sciebo.de/s/fI9v8QmIm1O1wc2) 
 - Day 02:   Linear Algebra:
    - Matrix multiplication, singular value decomposition, Linear Regression.
-   - [recording](https://uni-bonn.sciebo.de/s/w5smMgZSHZU53qf), [exercise](https://github.com/Machine-Learning-Foundations/day_03_exercise_algebra), [slides](https://uni-bonn.sciebo.de/s/2r7NA3KWIuaJNdy)
+   - [recording](https://www.wolter.tech/wordpress/wp-content/uploads/2026/03/2023-09-13_smaller.mp4), [exercise](https://github.com/Machine-Learning-Foundations/day_03_exercise_algebra), [slides](https://uni-bonn.sciebo.de/s/2r7NA3KWIuaJNdy)
 - Day 03:  Statistics
    - mean and variance, correlation, gaussians.
    - [recording](https://www.wolter.tech/wordpress/wp-content/uploads/2026/03/2023-09-14-09-01-52.mp4), [exercise](https://github.com/Machine-Learning-Foundations/day_04_exercise_statistics_prob), [slides](https://uni-bonn.sciebo.de/s/BmxW2qAzIhVnpnU)
