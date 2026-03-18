@@ -49,19 +49,19 @@ Programming in Python. If you are not yet familiar with python, please consult h
     -  [recording](https://www.wolter.tech/wordpress/wp-content/uploads/2026/03/2023-09-25-09-03-52_smaller.mp4), [exercise](https://github.com/Machine-Learning-Foundations/day_11_exercise_neural_networks), [slides](https://uni-bonn.sciebo.de/s/dAILvtcj5FWoke1)
 - Day 11: Convolutional neural networks:
     -  The convolution operation and convolutional neural networks.
-    -  [recording]( https://www.wolter.tech/wordpress/wp-content/uploads/2026/03/2023-09-26-09-03-11.mp4 ), [exercise](https://github.com/Machine-Learning-Foundations/day_12_exercise_cnn), [slides](https://uni-bonn.sciebo.de/s/wC9OVeHqO1OLiB4)
+    -  [recording](https://www.wolter.tech/wordpress/wp-content/uploads/2026/03/2023-09-26-09-03-11.mp4), [exercise](https://github.com/Machine-Learning-Foundations/day_12_exercise_cnn), [slides](https://uni-bonn.sciebo.de/s/wC9OVeHqO1OLiB4)
 - Day 12: Optimization for deep learning:
     -  Gradient descent with momentum, Adam, early stopping, regularization
-    -  [recording](https://uni-bonn.sciebo.de/s/X6iAaPgCALsZtNk), [exercise](https://github.com/Machine-Learning-Foundations/day_13_exercise_brain_decode), [slides](https://uni-bonn.sciebo.de/s/rWJRhQAGVkhpZwA)
+    -  [recording](https://www.wolter.tech/wordpress/wp-content/uploads/2026/03/2023-09-27-09-05-18.mp4), [exercise](https://github.com/Machine-Learning-Foundations/day_13_exercise_brain_decode), [slides](https://uni-bonn.sciebo.de/s/rWJRhQAGVkhpZwA)
 - Day 13: Segmentation:
     -  Semantic Segmentation, U-Net, Intersection-over-Union, Focal loss
-    -  [recording], [exercise](https://github.com/Machine-Learning-Foundations/exercise_13_segmentation), [slides]
+    -  [recording](https://www.wolter.tech/wordpress/wp-content/uploads/2026/03/2023-09-27-09-39-40.mp4), [exercise](https://github.com/Machine-Learning-Foundations/exercise_13_segmentation), [slides]
 - Day 14: Interpretability:
     - visualization of linear classifiers, saliency maps, integrated gradients
-    - [recording](https://uni-bonn.sciebo.de/s/v7BERpB3KGN0m4m), [exercise](https://github.com/Machine-Learning-Foundations/day_14_exercise_interpretability), [slides](https://uni-bonn.sciebo.de/s/H7suTOhvj4ECko6)
+    - [recording](https://www.wolter.tech/wordpress/wp-content/uploads/2026/03/2023-09-28-09-04-22.mp4), [exercise](https://github.com/Machine-Learning-Foundations/day_14_exercise_interpretability), [slides](https://uni-bonn.sciebo.de/s/H7suTOhvj4ECko6)
  - Day 15: Sequence models:
     - Transformers, Long-Short-Term-Memory, text-based language models.
-    - [recording](https://uni-bonn.sciebo.de/s/H2QWgA78IIkdDJ1)(update coming soon), [exercise](https://github.com/Machine-Learning-Foundations/exercise_15_language_models), [slides](https://github.com/Machine-Learning-Foundations/day_15_lecture_sequence_processing/blob/main/presentation.pdf)
+    - [recording](https://www.wolter.tech/wordpress/wp-content/uploads/2026/03/2023-09-29-09-03-26.mp4)(update coming soon), [exercise](https://github.com/Machine-Learning-Foundations/exercise_15_language_models), [slides](https://github.com/Machine-Learning-Foundations/day_15_lecture_sequence_processing/blob/main/presentation.pdf)
 
 See you during the course,
 
