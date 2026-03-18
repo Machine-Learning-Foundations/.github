@@ -61,7 +61,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
     - [recording](https://www.wolter.tech/wordpress/wp-content/uploads/2026/03/2023-09-28-09-04-22.mp4), [exercise](https://github.com/Machine-Learning-Foundations/day_14_exercise_interpretability), [slides](https://uni-bonn.sciebo.de/s/H7suTOhvj4ECko6)
  - Day 15: Sequence models:
     - Transformers, Long-Short-Term-Memory, text-based language models.
-    - [recording](https://www.wolter.tech/wordpress/wp-content/uploads/2026/03/2023-09-29-09-03-26.mp4)(update coming soon), [exercise](https://github.com/Machine-Learning-Foundations/exercise_15_language_models), [slides](https://github.com/Machine-Learning-Foundations/day_15_lecture_sequence_processing/blob/main/presentation.pdf)
+    - [recording](https://www.wolter.tech/wordpress/wp-content/uploads/2026/03/2023-09-29-09-03-26.mp4), [exercise](https://github.com/Machine-Learning-Foundations/exercise_15_language_models), [slides](https://github.com/Machine-Learning-Foundations/day_15_lecture_sequence_processing/blob/main/presentation.pdf)
 
 See you during the course,
 
